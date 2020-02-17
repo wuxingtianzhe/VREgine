@@ -1,0 +1,37 @@
+﻿  scene.cpp
+f:\code\vrengine\vrengine\scene\scene.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\code\vrengine\vrengine\object\object.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\code\vrengine\vrengine\assetmanager\assetmanager.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\code\vrengine\vrengine\assetmanager\modelclass\mesh.h(58): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+f:\code\vrengine\vrengine\massage\mywindow.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\code\vrengine\vrengine\vrdriver\vrdriver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\code\vrengine\vrengine\scene\scene.cpp(122): warning C4305: “参数”: 从“double”到“float”截断
+f:\code\vrengine\vrengine\scene\scene.cpp(136): warning C4305: “参数”: 从“double”到“float”截断
+f:\code\vrengine\vrengine\scene\scene.cpp(201): warning C4305: “参数”: 从“double”到“float”截断
+f:\code\vrengine\vrengine\scene\scene.cpp(202): warning C4305: “参数”: 从“double”到“float”截断
+f:\code\vrengine\vrengine\scene\scene.cpp(203): warning C4305: “参数”: 从“double”到“float”截断
+f:\code\vrengine\vrengine\scene\scene.cpp(204): warning C4305: “参数”: 从“double”到“float”截断
+f:\code\vrengine\vrengine\scene\scene.cpp(205): warning C4305: “参数”: 从“double”到“float”截断
+f:\code\vrengine\vrengine\scene\scene.cpp(206): warning C4305: “参数”: 从“double”到“float”截断
+f:\code\vrengine\vrengine\scene\scene.cpp(207): warning C4305: “参数”: 从“double”到“float”截断
+f:\code\vrengine\vrengine\scene\scene.cpp(208): warning C4305: “参数”: 从“double”到“float”截断
+f:\code\vrengine\vrengine\includeandlib64\glm\detail\type_vec4.inl(412): warning C4244: “参数”: 从“U”转换到“T”，可能丢失数据
+          with
+          [
+              U=double
+          ]
+          and
+          [
+              T=float
+          ]
+  f:\code\vrengine\vrengine\scene\scene.cpp(184): note: 参见对正在编译的函数 模板 实例化“glm::tvec4<float,0> &glm::tvec4<float,0>::operator *=<double>(U)”的引用
+          with
+          [
+              U=double
+          ]
+  f:\code\vrengine\vrengine\scene\scene.cpp(184): note: 参见对正在编译的函数 模板 实例化“glm::tvec4<float,0> &glm::tvec4<float,0>::operator *=<double>(U)”的引用
+          with
+          [
+              U=double
+          ]
+  VREngine.vcxproj -> F:\code\VREngine\x64\Debug\VREngine.exe
